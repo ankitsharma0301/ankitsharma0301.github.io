@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text with Html</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@100&family=Island+Moments&family=Licorice&family=Lobster&family=Luxurious+Roman&family=Moon+Dance&family=Noto+Sans&family=The+Nautigal&family=Ubuntu:wght@300&family=Vujahday+Script&display=swap" rel="stylesheet">
+
+    <style>
+        .logo1{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:red;
+            background-color: royalblue;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Island Moments', cursive;
+        }
+        .logo2{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:violet;
+            background-color: white;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'The Nautigal', cursive
+        }
+        .logo3{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:green;
+            background-color:tomato;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Noto Sans', sans-serif
+        }
+        .logo4{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:lightblue;
+            background-color: orange;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Licorice', cursive;
+        }
+        .logo5{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:blue;
+            background-color: lightgreen;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Licorice', cursive;
+        }
+        .logo6{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:orangered;
+            background-color: pink;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Ubuntu', sans-serif;
+        }
+        .logo7{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:pink;
+            background-color: blue;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Luxurious Roman', cursive;
+        }
+        .logo8{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:yellow;
+            background-color: rebeccapurple;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Moon Dance', cursive; 
+        }
+        .logo9{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px red;
+            color:black;
+            background-color: purple;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Vujahday Script', cursive; 
+        }
+        .logo10{
+            font-size: 5rem;
+            letter-spacing: 2px;
+            text-shadow:2px 4px 1px black;
+            color:red;
+            background-color: royalblue;
+            text-transform: capitalize;
+            text-align: center;
+            font-family: 'Lobster', cursive;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="logo1" >Ankit sharma</h1>
+    <h1 class="logo2" >Ankit sharma</h1>
+    <h1 class="logo3">Ankit sharma</h1>
+    <h1 class="logo4">Ankit sharma</h1>
+    <h1 class="logo5">Ankit sharma</h1>
+    <h1 class="logo6">Ankit sharma</h1>
+    <h1 class="logo7">Ankit sharma</h1>
+    <h1 class="logo8">Ankit sharma</h1>
+    <h1 class="logo9">Ankit sharma</h1>
+    <h1 class="logo10">Ankit sharma</h1>
+</body>
+</html>
